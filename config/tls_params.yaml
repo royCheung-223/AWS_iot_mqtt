@@ -1,0 +1,5 @@
+tls:
+  ca_certs: /home/ai/Downloads/root-CA.crt
+  certfile: /home/ai/Downloads/jetson_nano.cert.pem
+  keyfile: /home/ai/Downloads/jetson_nano.private.key
+  tls_insecure: false 
